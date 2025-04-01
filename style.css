@@ -1,0 +1,35 @@
+/* Selector 1: Styling the body element */
+body {
+    font-family: 'Verdana', sans-serif; 
+    background-color: #9dc9e8; 
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Selector 2: Styling the ID selector for the image */
+  img {
+    border: 3px solid #73b2ec; 
+    margin: 20px auto; 
+    display: block; 
+    border-radius: 8px; 
+  }
+  
+  /* Selector 3: Styling the classes */
+  h1 {
+    color: #060334; 
+    padding-bottom: 10px; 
+    margin-bottom: 20px; 
+  }
+  
+  /* Additional classes to style other sections */
+  h2 {
+    color: #0a0730; 
+    margin: 10px 0;
+  }
+
+  /* Additional classes to style other sections */
+  table {
+    color:antiquewhite;
+    border-top: 2px solid #64b8ec; 
+    border-bottom: 2px solid #64b8ec;  
+  }
